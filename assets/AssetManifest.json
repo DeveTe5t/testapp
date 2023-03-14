@@ -1,0 +1,17 @@
+{
+    "assets/data/contacts.json": [
+        "assets/data/contacts.json"
+    ],
+    "assets/data/menu_item.json": [
+        "assets/data/menu_item.json"
+    ],
+    "assets/images/.DS_Store": [
+        "assets/images/.DS_Store"
+    ],
+    "assets/images/logo.webp": [
+        "assets/images/logo.webp"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ]
+}

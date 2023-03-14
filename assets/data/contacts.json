@@ -1,0 +1,156 @@
+[
+    {
+        "area": "Mesa de ayuda y soporte técnico",
+        "areadetails": "",
+        "name": "Lic. Virginia González Cruz",
+        "phone": "443 113 89 00",
+        "ext": "506",
+        "email": "soporte.tecnico@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Mesa de ayuda y soporte técnico",
+        "areadetails": "",
+        "name": "C. Alma Rosa López Gasca",
+        "phone": "443 113 89 00",
+        "ext": "118",
+        "email": "soporte.tecnico@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Mesa de ayuda y soporte técnico",
+        "areadetails": "",
+        "name": "Lic. Karla Ivette González Magallón",
+        "phone": "443 113 89 00",
+        "ext": "105",
+        "email": "soporte.tecnico@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Servicio social y Prácticas profesionales",
+        "areadetails": "",
+        "name": "Lic. Carlos Alberto Villanueva Torres",
+        "phone": "443 113 89 00",
+        "ext": "313",
+        "email": "serviciosocial@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Otros servicios",
+        "areadetails": "⦿ Becas.\n⦿ Credenciales.\n⦿ Titulaciones.",
+        "name": "Lic. Brenda Cristina Radia Zamora",
+        "phone": "443 113 89 00",
+        "ext": "305",
+        "email": "otrosserviciosce@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Titulaciones",
+        "areadetails": "",
+        "name": "Danae López Ayala",
+        "phone": "443 113 89 00",
+        "ext": "306",
+        "email": "titulacion@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Formación continua",
+        "areadetails": "⦿ Bolsa de trabajo.\n⦿ Convenios.\n⦿ Cursos.\n⦿ Diplomados.\n⦿ Uveus.",
+        "name": "Lic. Patricia Ismarie Velázquez Barbosa",
+        "phone": "443 113 89 00",
+        "ext": "315",
+        "email": "educacioncontinua@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Doctorados y Especialidades",
+        "areadetails": "",
+        "name": "Lic. Matzallany Montzerrat Guillén Pérez",
+        "phone": "443 113 89 00",
+        "ext": "311",
+        "email": "doctorado@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Maestrías",
+        "areadetails": "",
+        "name": "Mtra. Janette López Vallejo",
+        "phone": "443 113 89 00",
+        "ext": "310",
+        "email": "admisiones@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Licenciaturas",
+        "areadetails": "⦿ Administración pública.\n⦿ Cultura física y deporte.\n⦿ Educación con enfoque en inclusión.\n⦿ Evaluación y desarrollo ambiental.\n⦿ Herbolaría y fitoterapia.\n⦿ Seguridad pública.",
+        "name": "Tec. María Ortencia Cortés Gómez",
+        "phone": "443 113 89 00 | Ext: 309",
+        "ext": "309",
+        "email": "licenciaturases@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "area": "Licenciaturas",
+        "areadetails": "⦿ Derecho y ciencias jurídicas.\n⦿ Ingeniería en desarrollo agroindustrial.\n⦿ Planeación y evaluación educativa.\n⦿ Turismo sustentable.",
+        "name": "Lic. Esmeralda Campos Alejandre",
+        "phone": "443 113 89 00",
+        "ext": "308",
+        "email": "licenciaturased@univim.edu.mx",
+        "steps": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    }
+]
