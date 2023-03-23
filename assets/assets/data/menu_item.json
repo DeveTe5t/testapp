@@ -1,0 +1,58 @@
+[
+    {
+        "icon": "f198",
+        "title": "Campus Virtual",
+        "description": "Ingresar a los cursos",
+        "color": "0xff941b80",
+        "tapurl": "campus_page"
+    },
+    {
+        "icon": "ef54",
+        "title": "Curso propedéutico",
+        "description": "Para quienes son de nuevo ingreso",
+        "color": "0xffe84e16",
+        "tapurl": "plataforma_fc"
+    },
+    {
+        "icon": "e185",
+        "title": "Servicios Escolares",
+        "description": "Ordenes de pago, calificaciones, inscripciones",
+        "color": "0xffe61b72",
+        "tapurl": "sce_page"
+    },
+    {
+        "icon": "f018",
+        "title": "Correo Institucional",
+        "description": "Consultar ingresos, fechas",
+        "color": "0xfff0d302",
+        "tapurl": "email_web"
+    },
+    {
+        "icon": "e6dd",
+        "title": "Portal Web",
+        "description": "Página principal, oferta académica, convocatorias",
+        "color": "0xff00a099",
+        "tapurl": "principal_page"
+    },
+    {
+        "icon": "f0b0",
+        "title": "Sistema de tickets",
+        "description": "Atención por tickets",
+        "color": "0xffe30613",
+        "tapurl": "ticket_page"
+    },
+    {
+        "icon": "f04aa",
+        "title": "Whatsapp",
+        "description": "Atención por whatsapp",
+        "color": "0xff008d36",
+        "tapurl": "whatsapp_app"
+    },
+    {
+        "icon": "f878",
+        "title": "Directorio telefónico",
+        "description": "Telefono y extensiones",
+        "color": "0xff1d70b7",
+        "tapurl": "directorio_telefonico"
+    }
+]
