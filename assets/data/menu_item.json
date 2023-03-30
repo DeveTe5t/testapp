@@ -1,65 +1,62 @@
 [
     {
-        "icon": "f198",
+        "iconname": "icon_campus-virtual.webp",
         "title": "Campus Virtual",
         "description": "Ingresar a los cursos",
-        "color": "0xff941b80",
         "tapurl": "campus_page"
     },
     {
-        "icon": "ef54",
+        "iconname": "icon_curso-propedeutico.webp",
         "title": "Curso propedéutico",
         "description": "Para quienes son de nuevo ingreso",
-        "color": "0xffe84e16",
         "tapurl": "plataforma_fc"
     },
     {
-        "icon": "e185",
+        "iconname": "icon_servicios-escolares.webp",
         "title": "Servicios Escolares",
         "description": "Ordenes de pago, calificaciones, inscripciones",
-        "color": "0xffe61b72",
         "tapurl": "sce_page"
     },
     {
-        "icon": "f018",
+        "iconname": "icon_correo-institucional.webp",
         "title": "Correo Institucional",
         "description": "Consultar ingresos, fechas",
-        "color": "0xfff0d302",
         "tapurl": "email_web"
     },
     {
-        "icon": "e6dd",
+        "iconname": "icon_portal-web.webp",
         "title": "Portal Web",
         "description": "Página principal, oferta académica, convocatorias",
-        "color": "0xff00a099",
         "tapurl": "principal_page"
     },
     {
-        "icon": "f0b0",
+        "iconname": "icon_sistema-de-tickets.webp",
         "title": "Sistema de tickets",
-        "description": "Atención por tickets",
-        "color": "0xffe30613",
+        "description": "Generar, consultar y dar seguimiento a tickets",
         "tapurl": "ticket_page"
     },
     {
-        "icon": "f04aa",
+        "iconname": "icon_whatsapp.webp",
         "title": "Whatsapp",
         "description": "Atención por whatsapp",
-        "color": "0xff008d36",
         "tapurl": "whatsapp_app"
     },
     {
-        "icon": "f878",
+        "iconname": "icon_directorio-telefonico.webp",
         "title": "Directorio telefónico",
         "description": "Telefono y extensiones",
-        "color": "0xff1d70b7",
         "tapurl": "directorio_telefonico"
     },
     {
-        "icon": "f07ef",
-        "title": "Preguntame",
-        "description": "Pregunta para quitar el aburrimiento o encontrar más",
-        "color": "0xff925f36",
-        "tapurl": "chatgpt"
+        "iconname": "icon_ubicacion-univim.webp",
+        "title": "Ubicación",
+        "description": "Ubicación de la UNIVIM",
+        "tapurl": "ubicacion_univim"
+    },
+    {
+        "iconname": "icon_ubicacion-uveus.webp",
+        "title": "Ubicación UVEUS",
+        "description": "Ubicación de las UVEUS",
+        "tapurl": "ubicacion_uveus"
     }
 ]

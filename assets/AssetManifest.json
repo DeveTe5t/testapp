@@ -1,14 +1,41 @@
 {
-    "assets/data/contacts.json": [
+    "data/contacts.json": [
         "data/contacts.json"
     ],
-    "assets/data/menu_item.json": [
+    "data/menu_item.json": [
         "data/menu_item.json"
     ],
-    "assets/images/.DS_Store": [
-        "images/.DS_Store"
+    "images/icon_campus-virtual.webp": [
+        "images/icon_campus-virtual.webp"
     ],
-    "assets/images/logo.webp": [
+    "images/icon_correo-institucional.webp": [
+        "images/icon_correo-institucional.webp"
+    ],
+    "images/icon_curso-propedeutico.webp": [
+        "images/icon_curso-propedeutico.webp"
+    ],
+    "images/icon_directorio-telefonico.webp": [
+        "images/icon_directorio-telefonico.webp"
+    ],
+    "images/icon_portal-web.webp": [
+        "images/icon_portal-web.webp"
+    ],
+    "images/icon_servicios-escolares.webp": [
+        "images/icon_servicios-escolares.webp"
+    ],
+    "images/icon_sistema-de-tickets.webp": [
+        "images/icon_sistema-de-tickets.webp"
+    ],
+    "images/icon_ubicacion-univim.webp": [
+        "images/icon_ubicacion-univim.webp"
+    ],
+    "images/icon_ubicacion-uveus.webp": [
+        "images/icon_ubicacion-uveus.webp"
+    ],
+    "images/icon_whatsapp.webp": [
+        "images/icon_whatsapp.webp"
+    ],
+    "images/logo.webp": [
         "images/logo.webp"
     ],
     "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
