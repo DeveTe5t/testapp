@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "65a25868bc7d87a4d588522a4da35c97",
-  "index.html": "3192f8bb70ec1cedc8428290702216f0",
-  "/": "3192f8bb70ec1cedc8428290702216f0",
-  "main.dart.js": "2c23593b64373258988f30dca44ac58b",
+  "index.html": "f1cbfd9501710f2d9301aa55a1018f7a",
+  "/": "f1cbfd9501710f2d9301aa55a1018f7a",
+  "main.dart.js": "ca0f46a9bab45dfe8aa56e8da488709a",
   "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
   "favicon.png": "abe24398b136e8e6fa99bff4af85702d",
   "icons/Icon-192.png": "e03c4d968043f4b50f1fe65d0127aef1",
@@ -31,7 +31,7 @@ const RESOURCES = {
   "assets/images/icon_portal-web.webp": "d46a13bfe3f1457b068a4c62729b6f4c",
   "assets/images/icon_directorio-telefonico.webp": "35ca497a2261136b8380c9f9dc66566d",
   "assets/images/icon_servicios-escolares.webp": "61c32f5d20c1a6842e52964b8f753a15",
-  "assets/data/menu_item.json": "fa7218c9ad0306c97e1720b646d6e4c8",
+  "assets/data/menu_item.json": "038b9588e6bb3bf373444b3cefa1b470",
   "assets/data/contacts.json": "cbcde17e10b6b6c307d59582717c4d35",
   "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
   "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
