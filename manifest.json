@@ -1,11 +1,11 @@
 {
-    "name": "univim",
-    "short_name": "univim",
+    "name": "UNIVIM",
+    "short_name": "UNIVIM",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#6F1C46",
     "theme_color": "#6F1C46",
-    "description": "univim app.",
+    "description": "UNIVIM APP",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
